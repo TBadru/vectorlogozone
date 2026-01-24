@@ -1,4 +1,4 @@
-{%- assign sorted_pages = site.pages | where_exp:"item","item.logohandle" | sort:'sort' -%}
+{%- assign sorted_pages = site.pages | where_exp:"item","item.logohandle" | where_exp:"item", "item.noindex == nil" | sort:'sort' -%}
 {%- assign first_image = true -%}
 {
     "handle": "vlz{{page.targetsuffix}}",

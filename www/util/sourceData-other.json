@@ -14,12 +14,12 @@ targetsuffix: '-other'
             {%- unless logopage.noindex %}
             {%- if logopage.images %}
             {%- for logoimage in logopage.images %}
-            {%- unless logoimage contains '-ar21.svg' %}
-            {%- unless logoimage contains '-icon.svg' %}
+            {%- unless logoimage contains '-ar21' %}
+            {%- unless logoimage contains '-icon' %}
             {%- if first_image %}{% assign first_image = false %}{% else %},{% endif %}
-        { 
-            "img": "{{site.production_url}}/logos/{{logopage.logohandle}}/{{logoimage}}", 
-            "name": "{{logopage.title}}", 
+        {
+            "img": "{{site.production_url}}/logos/{{logopage.logohandle}}/{{logoimage}}",
+            "name": "{{logopage.title}}",
             "src": "{{site.production_url}}{{logopage.url}}"
         }
                 {%- endunless %}
