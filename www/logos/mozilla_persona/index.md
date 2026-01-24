@@ -8,6 +8,7 @@ images:
 - mozilla_persona-icon.svg
 - mozilla_persona-ar21.svg
 logohandle: mozilla_persona
+noindex: true
 redirect_from: /logos/persona/index.html
 sort: persona
 tags:
