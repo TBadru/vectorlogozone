@@ -22,7 +22,7 @@ const getCommit = () => {
 };
 
 
-export const GET: APIRoute = async () => {
+export const GET: APIRoute = async (context) => {
   const records = await getAllLogoRecords();
 
   let images = 0;
@@ -43,8 +43,8 @@ export const GET: APIRoute = async () => {
   const payload = {
     success: true,
     message: "OK",
-    commit: process.env.GITHUB_SHA?.slice(0, 7) ?? process.env.WORKERS_CI_COMMIT_SHA?.slice(0, 7) ?? getCommit(),
-    tech: "astro",
+    commit: process.env.GITHUB_SHA?.slice(0, 7) ?? process.env.WORKERS_CI_COMMIT_SHA?.slice(0, 7) ?? process.env.CF_PAGES_COMMIT_SHA?.slice(0, 7)?? getCommit(),
+    tech: context.generator,
     images,
     lastmod: new Date().toISOString(),
     pages,
