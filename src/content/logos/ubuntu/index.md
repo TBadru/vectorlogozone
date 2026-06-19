@@ -11,12 +11,15 @@ images:
 - ubuntu-icon.svg
 - ubuntu-ar21.svg
 logohandle: ubuntu
+resource: https://www.vectorlogozone.com/logos/ubuntu/ubuntu-ar21.svg
 sort: ubuntu
 tags:
 - linux
 - operating_system
+timestamp: '2015-12-16T03:46:46Z'
 title: Ubuntu
 twitter: https://x.com/Ubuntu
+type: Logo
 website: https://www.ubuntu.com/
 wikipedia: https://en.wikipedia.org/wiki/Ubuntu_(operating_system)
 ---

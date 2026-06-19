@@ -10,8 +10,11 @@ images:
 - google_recaptcha-icon.svg
 - google_recaptcha-ar21.svg
 logohandle: google_recaptcha
+resource: https://www.vectorlogozone.com/logos/google_recaptcha/google_recaptcha-ar21.svg
 sort: recaptcha
+timestamp: '2018-06-05T18:58:08Z'
 title: reCAPTCHA
+type: Logo
 website: https://www.google.com/recaptcha/intro/
 wikipedia: https://en.wikipedia.org/wiki/ReCAPTCHA
 ---

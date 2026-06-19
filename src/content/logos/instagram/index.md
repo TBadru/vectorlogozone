@@ -11,12 +11,15 @@ images:
 - instagram-tile.svg
 - instagram-icon.svg
 logohandle: instagram
+resource: https://www.vectorlogozone.com/logos/instagram/instagram-ar21.svg
 sort: instagram
 tags:
 - facebook
 - photo_sharing
 - social_network
+timestamp: '2018-03-17T19:45:32Z'
 title: Instagram
+type: Logo
 website: https://www.instagram.com/
 wikipedia: https://en.wikipedia.org/wiki/Instagram
 ---

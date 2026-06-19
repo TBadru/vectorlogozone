@@ -9,9 +9,12 @@ images:
 - podmanio-official.svg
 - podmanio-ar21.svg
 logohandle: podmanio
+resource: https://www.vectorlogozone.com/logos/podmanio/podmanio-ar21.svg
 sort: podman
+timestamp: '2023-10-31T20:54:54Z'
 title: Podman
 twitter: https://x.com/Podman_io
+type: Logo
 website: https://podman.io
 wikipedia: https://fr.wikipedia.org/wiki/Podman
 ---

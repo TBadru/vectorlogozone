@@ -15,12 +15,15 @@ images:
 - digitalocean-horizontal.svg
 - digitalocean-ar21.svg
 logohandle: digitalocean
+resource: https://www.vectorlogozone.com/logos/digitalocean/digitalocean-ar21.svg
 sort: digital ocean
 tags:
 - hosting
 - cloud
+timestamp: '2013-07-20T12:43:58Z'
 title: Digital Ocean
 twitter: https://x.com/digitalocean
+type: Logo
 website: https://www.digitalocean.com/
 wikipedia: https://en.wikipedia.org/wiki/DigitalOcean
 ---

@@ -8,10 +8,13 @@ images:
 - mui-ar21.svg
 linkedin: https://linkedin.com/company/mui
 logohandle: mui
+resource: https://www.vectorlogozone.com/logos/mui/mui-ar21.svg
 sort: mui
 stackoverflow: https://stackoverflow.com/questions/tagged/material-ui
+timestamp: '2025-02-06T23:48:26Z'
 title: MUI
 twitter: https://x.com/MUI_hq
+type: Logo
 website: https://mui.com/
 youtube: https://youtube.com/@MUI_hq
 ---

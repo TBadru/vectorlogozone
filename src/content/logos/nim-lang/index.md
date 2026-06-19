@@ -13,11 +13,14 @@ other:
 - name: IRC
   url: irc://irc.libera.chat/nim
 reddit: https://www.reddit.com/r/nim
+resource: https://www.vectorlogozone.com/logos/nim-lang/nim-lang-ar21.svg
 sort: nim-lang
 stackoverflow: https://stackoverflow.com/questions/tagged/nim-lang
 telegram: https://t.me/nim_lang
+timestamp: '2018-11-23T01:14:13Z'
 title: Nim
 twitter: https://x.com/nim_lang
+type: Logo
 website: https://nim-lang.org/
 wikipedia: https://en.wikipedia.org/wiki/Nim_(programming_language)
 ---

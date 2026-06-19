@@ -13,10 +13,13 @@ images:
 - ruby-lang-horizontal.svg
 logohandle: ruby-lang
 redirect_from: /logos/ruby/index.html
+resource: https://www.vectorlogozone.com/logos/ruby-lang/ruby-lang-ar21.svg
 sort: ruby
 tags:
 - programming_language
+timestamp: '2013-01-30T01:22:24Z'
 title: Ruby
+type: Logo
 website: https://www.ruby-lang.org/en/
 wikipedia: https://en.wikipedia.org/wiki/Ruby_(programming_language)
 ---

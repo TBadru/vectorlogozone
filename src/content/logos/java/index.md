@@ -11,12 +11,15 @@ images:
 - java-ar21.svg
 - java-horizontal.svg
 logohandle: java
+resource: https://www.vectorlogozone.com/logos/java/java-ar21.svg
 sort: java
 tags:
 - java
 - programming_language
+timestamp: '2015-12-16T02:55:44Z'
 title: Java
 twitter: https://x.com/java
+type: Logo
 website: https://www.java.com/
 wikipedia: https://en.wikipedia.org/wiki/Java_(programming_language)
 youtube: https://www.youtube.com/java

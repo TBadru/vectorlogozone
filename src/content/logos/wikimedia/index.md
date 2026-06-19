@@ -9,9 +9,12 @@ images:
 - wikimedia-ar21.svg
 - wikimedia-icon.svg
 logohandle: wikimedia
+resource: https://www.vectorlogozone.com/logos/wikimedia/wikimedia-ar21.svg
 sort: wikimedia
+timestamp: '2018-01-17T05:27:23Z'
 title: Wikimedia
 twitter: https://x.com/wikimedia
+type: Logo
 website: https://www.wikimedia.org/
 wikipedia: https://en.wikipedia.org/wiki/Wikimedia_Foundation
 ---

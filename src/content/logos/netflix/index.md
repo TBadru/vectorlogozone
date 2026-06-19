@@ -13,9 +13,12 @@ images:
 - netflix-official.svg
 instagram: https://www.instagram.com/netflix/
 logohandle: netflix
+resource: https://www.vectorlogozone.com/logos/netflix/netflix-ar21.svg
 sort: netflix
+timestamp: '2018-03-22T22:37:54Z'
 title: Netflix
 twitter: https://x.com/netflix
+type: Logo
 website: https://www.netflix.com/
 wikipedia: https://en.wikipedia.org/wiki/Netflix
 ---

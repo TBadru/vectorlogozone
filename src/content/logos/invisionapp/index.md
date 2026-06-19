@@ -9,8 +9,11 @@ images:
 - invisionapp-ar21.svg
 - invisionapp-icon.svg
 logohandle: invisionapp
+resource: https://www.vectorlogozone.com/logos/invisionapp/invisionapp-ar21.svg
 sort: invisionapp
+timestamp: '2018-08-12T00:14:48Z'
 title: InVision
 twitter: https://x.com/InVisionApp
+type: Logo
 website: https://www.invisionapp.com/
 ---

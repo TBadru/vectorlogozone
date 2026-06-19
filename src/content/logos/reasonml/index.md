@@ -5,9 +5,12 @@ images:
 - reasonml-icon.svg
 - reasonml-ar21.svg
 logohandle: reasonml
+resource: https://www.vectorlogozone.com/logos/reasonml/reasonml-ar21.svg
 sort: reasonml
+timestamp: '2018-06-05T19:06:30Z'
 title: Reason
 twitter: https://x.com/reasonml
+type: Logo
 website: https://reasonml.github.io/
 ---
 

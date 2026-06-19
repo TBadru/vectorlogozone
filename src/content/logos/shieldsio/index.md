@@ -10,8 +10,11 @@ logohandle: shieldsio
 other:
 - name: OpenCollective
   url: https://opencollective.com/shields
+resource: https://www.vectorlogozone.com/logos/shieldsio/shieldsio-ar21.svg
 sort: shields
+timestamp: '2018-11-08T04:16:43Z'
 title: Shields.IO
 twitter: https://x.com/shields_io
+type: Logo
 website: http://shields.io/
 ---

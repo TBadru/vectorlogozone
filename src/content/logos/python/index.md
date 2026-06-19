@@ -12,12 +12,15 @@ images:
 - python-vertical.svg
 - python-horizontal.svg
 logohandle: python
+resource: https://www.vectorlogozone.com/logos/python/python-ar21.svg
 sort: python
 tags:
 - programming_language
 - python
+timestamp: '2013-02-09T22:07:18Z'
 title: Python
 twitter: https://x.com/thepsf
+type: Logo
 website: https://www.python.org/
 wikipedia: https://en.wikipedia.org/wiki/Python_(programming_language)
 ---

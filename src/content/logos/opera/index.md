@@ -10,9 +10,12 @@ images:
 - opera-icon.svg
 - opera-ar21.svg
 logohandle: opera
+resource: https://www.vectorlogozone.com/logos/opera/opera-ar21.svg
 sort: opera
+timestamp: '2018-04-17T23:44:32Z'
 title: Opera
 twitter: https://x.com/opera
+type: Logo
 website: https://www.opera.com/
 wikipedia: https://en.wikipedia.org/wiki/Opera_(web_browser)
 ---

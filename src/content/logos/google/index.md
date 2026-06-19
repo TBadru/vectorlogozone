@@ -8,12 +8,15 @@ images:
 - google-icon.svg
 - google-ar21.svg
 logohandle: google
+resource: https://www.vectorlogozone.com/logos/google/google-ar21.svg
 sort: google
 tags:
 - google
 - search
+timestamp: '2017-08-13T18:58:51Z'
 title: Google
 twitter: https://x.com/google
+type: Logo
 website: https://www.google.com/
 wikipedia: https://en.wikipedia.org/wiki/Google
 ---

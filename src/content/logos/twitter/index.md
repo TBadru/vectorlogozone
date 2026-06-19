@@ -13,12 +13,15 @@ images:
 - twitter-tile.svg
 - twitter-ar21.svg
 logohandle: twitter
+resource: https://www.vectorlogozone.com/logos/twitter/twitter-ar21.svg
 sort: twitter
 tags:
 - simpleshare
 - social_network
+timestamp: '2017-09-19T22:21:38Z'
 title: Twitter
 twitter: https://x.com/twitter
+type: Logo
 website: https://twitter.com/
 wikipedia: https://en.wikipedia.org/wiki/Twitter
 ---

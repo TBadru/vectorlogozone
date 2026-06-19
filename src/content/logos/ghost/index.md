@@ -8,8 +8,11 @@ images:
 - ghost-icon.svg
 instagram: https://instagram.com/ghost
 logohandle: ghost
+resource: https://www.vectorlogozone.com/logos/ghost/ghost-ar21.svg
 sort: ghost
+timestamp: '2018-06-28T20:39:36Z'
 title: Ghost
 twitter: https://x.com/tryghost
+type: Logo
 website: https://ghost.org/
 ---

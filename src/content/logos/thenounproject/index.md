@@ -7,11 +7,14 @@ images:
 - thenounproject-ar21.svg
 - thenounproject-icon.svg
 logohandle: thenounproject
+resource: https://www.vectorlogozone.com/logos/thenounproject/thenounproject-ar21.svg
 sort: noun project
 tags:
 - software
+timestamp: '2016-08-06T13:30:06Z'
 title: The Noun Project
 twitter: https://x.com/nounproject
+type: Logo
 website: https://thenounproject.com/
 wikipedia: https://en.wikipedia.org/wiki/The_Noun_Project
 ---

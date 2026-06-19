@@ -10,8 +10,11 @@ images:
 - line-icon.svg
 - line-official.svg
 logohandle: line
+resource: https://www.vectorlogozone.com/logos/line/line-ar21.svg
 sort: line
+timestamp: '2018-03-20T22:19:01Z'
 title: LINE
+type: Logo
 website: https://line.me/
 wikipedia: https://en.wikipedia.org/wiki/Line_(software)
 ---

@@ -15,12 +15,15 @@ images:
 - dotnet-horizontal.svg
 logohandle: dotnet
 redirect_from: /logos/microsoft_dotnet/index.html
+resource: https://www.vectorlogozone.com/logos/dotnet/dotnet-ar21.svg
 sort: microsoft_dotnet
 tags:
 - programming_language
 - programming_library
+timestamp: '2015-11-25T03:11:45Z'
 title: Microsoft .Net
 twitter: https://x.com/dotnet
+type: Logo
 website: https://dotnet.microsoft.com/
 wikipedia: https://en.wikipedia.org/wiki/.NET
 ---

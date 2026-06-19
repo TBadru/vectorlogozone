@@ -11,13 +11,16 @@ images:
 - adobe-icon.svg
 logohandle: adobe
 noindex: true
+resource: https://www.vectorlogozone.com/logos/adobe/adobe-ar21.svg
 sort: adobe
 tags:
 - graphics
 - software
 - fonts
+timestamp: '2017-09-27T03:50:12Z'
 title: Adobe
 twitter: https://x.com/Adobe
+type: Logo
 website: https://www.adobe.com/
 wikipedia: https://en.wikipedia.org/wiki/Adobe_Systems
 ---

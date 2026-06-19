@@ -4,11 +4,14 @@ images:
 - google_play-icon.svg
 - google_play-tile.svg
 logohandle: google_play
+resource: https://www.vectorlogozone.com/logos/google_play/google_play-ar21.svg
 sort: googleplay
 tags:
 - ecommerce
 - google
+timestamp: '2018-01-17T05:19:12Z'
 title: Google Play
+type: Logo
 website: https://play.google.com/
 wikipedia: https://en.wikipedia.org/wiki/Google_Play
 ---

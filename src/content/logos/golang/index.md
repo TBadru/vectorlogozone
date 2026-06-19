@@ -13,10 +13,13 @@ images:
 - golang-ar21.svg
 - golang-horizontal.svg
 logohandle: golang
+resource: https://www.vectorlogozone.com/logos/golang/golang-ar21.svg
 sort: go language
 tags:
 - programming_language
+timestamp: '2015-12-01T03:47:44Z'
 title: Go Language
+type: Logo
 website: https://golang.org/
 wikipedia: https://en.wikipedia.org/wiki/Go_(programming_language)
 ---

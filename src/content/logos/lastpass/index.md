@@ -15,9 +15,12 @@ logohandle: lastpass
 other:
 - name: Spiceworks
   url: https://community.spiceworks.com/pages/lastpass
+resource: https://www.vectorlogozone.com/logos/lastpass/lastpass-ar21.svg
 sort: lastpass
+timestamp: '2018-06-05T19:01:22Z'
 title: LastPass
 twitter: https://x.com/LastPass
+type: Logo
 website: https://www.lastpass.com/
 wikipedia: https://en.wikipedia.org/wiki/LastPass
 youtube: https://www.youtube.com/c/LastPass

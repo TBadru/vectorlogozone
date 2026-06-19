@@ -9,12 +9,15 @@ images:
 - jquery-icon.svg
 - jquery-horizontal.svg
 logohandle: jquery
+resource: https://www.vectorlogozone.com/logos/jquery/jquery-ar21.svg
 sort: jquery
 tags:
 - programming_library
 - javascript
+timestamp: '2015-11-21T21:42:17Z'
 title: jQuery
 twitter: https://x.com/jquery
+type: Logo
 website: https://jquery.com/
 wikipedia: https://en.wikipedia.org/wiki/JQuery
 ---

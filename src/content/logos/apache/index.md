@@ -10,6 +10,7 @@ images:
 - apache-icon.svg
 - apache-ar21.svg
 logohandle: apache
+resource: https://www.vectorlogozone.com/logos/apache/apache-ar21.svg
 slack: https://the-asf.slack.com/
 sort: apache software foundation
 tags:
@@ -17,8 +18,10 @@ tags:
 - webserver
 - charity
 - open_source
+timestamp: '2015-11-09T02:44:24Z'
 title: Apache Software Foundation
 twitter: https://x.com/TheASF
+type: Logo
 website: http://apache.org/
 wikipedia: https://en.wikipedia.org/wiki/The_Apache_Software_Foundation
 ---

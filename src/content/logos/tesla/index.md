@@ -10,11 +10,14 @@ images:
 - tesla-ar21.svg
 - tesla-icon.svg
 logohandle: tesla
+resource: https://www.vectorlogozone.com/logos/tesla/tesla-ar21.svg
 sort: tesla
 tags:
 - cars
+timestamp: '2018-03-05T06:40:07Z'
 title: Tesla
 twitter: https://x.com/tesla
+type: Logo
 website: https://www.tesla.com/
 wikipedia: https://en.wikipedia.org/wiki/Tesla,_Inc.
 ---

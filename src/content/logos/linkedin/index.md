@@ -13,13 +13,16 @@ images:
 - linkedin-tile.svg
 - linkedin-ar21.svg
 logohandle: linkedin
+resource: https://www.vectorlogozone.com/logos/linkedin/linkedin-ar21.svg
 sort: linkedin
 tags:
 - job_search
 - simpleshare
 - social_network
+timestamp: '2017-09-27T03:54:51Z'
 title: LinkedIn
 twitter: https://x.com/linkedin
+type: Logo
 website: https://www.linkedin.com/
 wikipedia: https://en.wikipedia.org/wiki/LinkedIn
 ---

@@ -14,11 +14,14 @@ images:
 - dropbox-tile.svg
 - dropbox-icon.svg
 logohandle: dropbox
+resource: https://www.vectorlogozone.com/logos/dropbox/dropbox-ar21.svg
 sort: dropbox
 tags:
 - file_sharing
+timestamp: '2017-09-27T03:51:05Z'
 title: Dropbox
 twitter: https://x.com/Dropbox
+type: Logo
 website: https://www.dropbox.com/
 wikipedia: https://en.wikipedia.org/wiki/Dropbox_(service)
 ---

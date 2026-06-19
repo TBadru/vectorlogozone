@@ -21,10 +21,13 @@ images:
 instagram: https://www.instagram.com/discord/
 logohandle: discord
 redirect_from: /logos/discordapp/index.html
+resource: https://www.vectorlogozone.com/logos/discord/discord-ar21.svg
 sort: discord
 tiktok: https://www.tiktok.com/@discord
+timestamp: '2018-03-22T22:29:03Z'
 title: Discord
 twitter: https://x.com/discord
+type: Logo
 website: https://discord.com/
 wikipedia: https://en.wikipedia.org/wiki/Discord_(software)
 youtube: https://www.youtube.com/discord

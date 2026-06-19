@@ -5,9 +5,12 @@ images:
 - firstinspires-icon.svg
 - firstinspires-ar21.svg
 logohandle: firstinspires
+resource: https://www.vectorlogozone.com/logos/firstinspires/firstinspires-ar21.svg
 sort: first
+timestamp: '2018-06-05T18:55:35Z'
 title: FIRST
 twitter: https://x.com/firstweets
+type: Logo
 website: https://www.firstinspires.org/
 wikipedia: https://en.wikipedia.org/wiki/FIRST_Robotics_Competition
 ---

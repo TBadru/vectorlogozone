@@ -7,9 +7,12 @@ images:
 instagram: https://www.instagram.com/oracle/
 linkedin: https://www.linkedin.com/company/oracle
 logohandle: oracle
+resource: https://www.vectorlogozone.com/logos/oracle/oracle-ar21.svg
 sort: oracle
+timestamp: '2018-06-05T19:04:30Z'
 title: Oracle
 twitter: https://x.com/oracle
+type: Logo
 website: https://www.oracle.com/
 wikipedia: https://en.wikipedia.org/wiki/Oracle_Corporation
 youtube: http://www.youtube.com/oracle/

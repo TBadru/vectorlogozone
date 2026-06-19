@@ -11,9 +11,12 @@ images:
 - codepen-official.svg
 instagram: https://www.instagram.com/codepen/
 logohandle: codepen
+resource: https://www.vectorlogozone.com/logos/codepen/codepen-ar21.svg
 sort: codepen
+timestamp: '2018-03-25T20:19:58Z'
 title: CodePen
 twitter: https://x.com/CodePen
+type: Logo
 website: https://codepen.io/
 wikipedia: https://en.wikipedia.org/wiki/CodePen
 ---

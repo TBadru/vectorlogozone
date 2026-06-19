@@ -7,8 +7,11 @@ images:
 - expoio-ar21.svg
 instagram: https://instagram.com/expo.io
 logohandle: expoio
+resource: https://www.vectorlogozone.com/logos/expoio/expoio-ar21.svg
 sort: expo
+timestamp: '2019-06-24T21:18:00Z'
 title: Expo
 twitter: https://x.com/expo
+type: Logo
 website: https://expo.io/
 ---

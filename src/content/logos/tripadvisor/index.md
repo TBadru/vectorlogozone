@@ -13,9 +13,12 @@ instagram: https://www.instagram.com/tripadvisor/
 linkedin: https://www.linkedin.com/company/15027/
 logohandle: tripadvisor
 pinterest: https://www.pinterest.com/tripadvisorus
+resource: https://www.vectorlogozone.com/logos/tripadvisor/tripadvisor-ar21.svg
 sort: tripadvisor
+timestamp: '2018-03-05T06:42:11Z'
 title: TripAdvisor
 twitter: https://x.com/TripAdvisor
+type: Logo
 website: https://www.tripadvisor.com/
 wikipedia: https://en.wikipedia.org/wiki/TripAdvisor
 youtube: https://www.youtube.com/user/TripAdvisor

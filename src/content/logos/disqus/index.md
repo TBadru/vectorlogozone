@@ -14,9 +14,12 @@ images:
 - disqus-ar21.svg
 - disqus-official.svg
 logohandle: disqus
+resource: https://www.vectorlogozone.com/logos/disqus/disqus-ar21.svg
 sort: disqus
+timestamp: '2017-09-27T04:00:23Z'
 title: Disqus
 twitter: https://x.com/disqus
+type: Logo
 website: https://disqus.com/
 wikipedia: https://en.wikipedia.org/wiki/Disqus
 ---

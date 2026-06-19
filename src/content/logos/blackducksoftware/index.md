@@ -6,10 +6,13 @@ images:
 - blackducksoftware-icon.svg
 linkedin: http://linkedin.com/company/black-duck-software
 logohandle: blackducksoftware
+resource: https://www.vectorlogozone.com/logos/blackducksoftware/blackducksoftware-ar21.svg
 slideshare: https://www.slideshare.net/blackducksoftware
 sort: blackducksoftware
+timestamp: '2018-08-12T00:03:59Z'
 title: Black Duck
 twitter: https://x.com/black_duck_sw
+type: Logo
 website: https://www.blackducksoftware.com/
 youtube: http://youtube.com/user/BlackDuckSoftware
 ---

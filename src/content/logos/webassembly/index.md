@@ -11,10 +11,13 @@ images:
 - webassembly-ar21.svg
 - webassembly-icon.svg
 logohandle: webassembly
+resource: https://www.vectorlogozone.com/logos/webassembly/webassembly-ar21.svg
 sort: webassembly
 tags:
 - programming_language
+timestamp: '2018-03-05T06:47:38Z'
 title: WebAssembly
+type: Logo
 website: http://webassembly.org/
 wikipedia: https://en.wikipedia.org/wiki/WebAssembly
 ---

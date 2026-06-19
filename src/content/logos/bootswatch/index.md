@@ -9,10 +9,13 @@ images:
 - bootswatch-ar21.svg
 - bootswatch-icon.svg
 logohandle: bootswatch
+resource: https://www.vectorlogozone.com/logos/bootswatch/bootswatch-ar21.svg
 sort: bootswatch
 tags:
 - webdesign
+timestamp: '2015-11-16T00:44:43Z'
 title: Bootswatch
 twitter: https://x.com/bootswatch
+type: Logo
 website: http://bootswatch.com/
 ---

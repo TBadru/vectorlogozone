@@ -10,11 +10,14 @@ images:
 - heroku-icon.svg
 - heroku-ar21.svg
 logohandle: heroku
+resource: https://www.vectorlogozone.com/logos/heroku/heroku-ar21.svg
 sort: heroku
 tags:
 - hosting
+timestamp: '2017-05-08T02:54:59Z'
 title: Heroku
 twitter: https://x.com/heroku
+type: Logo
 website: https://www.heroku.com/
 wikipedia: https://en.wikipedia.org/wiki/Heroku
 ---

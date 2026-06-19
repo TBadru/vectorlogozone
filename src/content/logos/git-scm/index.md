@@ -10,10 +10,13 @@ images:
 - git-scm-icon.svg
 - git-scm-ar21.svg
 logohandle: git-scm
+resource: https://www.vectorlogozone.com/logos/git-scm/git-scm-ar21.svg
 sort: git
 tags:
 - version_control
+timestamp: '2015-11-14T22:25:39Z'
 title: git
+type: Logo
 website: https://git-scm.com/
 wikipedia: https://en.wikipedia.org/wiki/Git
 ---

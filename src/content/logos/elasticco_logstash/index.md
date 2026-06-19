@@ -6,7 +6,10 @@ images:
 - elasticco_logstash-ar21.svg
 - elasticco_logstash-icon.svg
 logohandle: elasticco_logstash
+resource: https://www.vectorlogozone.com/logos/elasticco_logstash/elasticco_logstash-ar21.svg
 sort: logstash
+timestamp: '2019-08-03T02:07:08Z'
 title: Logstash
+type: Logo
 website: https://www.elastic.co/products/logstash
 ---

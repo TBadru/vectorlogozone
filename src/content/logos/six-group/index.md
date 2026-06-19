@@ -11,9 +11,12 @@ images:
 instagram: https://www.instagram.com/sixgroup/
 linkedin: https://www.linkedin.com/company/sixgroup
 logohandle: six-group
+resource: https://www.vectorlogozone.com/logos/six-group/six-group-ar21.svg
 sort: sixgroup
+timestamp: '2026-01-24T02:28:10Z'
 title: SIX
 twitter: https://twitter.com/sixgroup
+type: Logo
 website: https://www.six-group.com/en/home.html
 youtube: https://www.youtube.com/sixgroup
 ---

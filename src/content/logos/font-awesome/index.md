@@ -9,10 +9,13 @@ images:
 - font-awesome-ar21.svg
 - font-awesome-icon.svg
 logohandle: font-awesome
+resource: https://www.vectorlogozone.com/logos/font-awesome/font-awesome-ar21.svg
 sort: font awesome
 tags:
 - font
+timestamp: '2015-11-12T03:22:12Z'
 title: Font Awesome
 twitter: https://x.com/fontawesome
+type: Logo
 website: http://fontawesome.io/
 ---

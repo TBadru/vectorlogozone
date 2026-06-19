@@ -11,11 +11,14 @@ images:
 - erlang-official.svg
 - erlang-vertical.svg
 logohandle: erlang
+resource: https://www.vectorlogozone.com/logos/erlang/erlang-ar21.svg
 sort: erlang
 tags:
 - programming_language
+timestamp: '2015-11-28T14:55:32Z'
 title: Erlang
 twitter: https://x.com/erlang_org
+type: Logo
 website: http://www.erlang.org/
 wikipedia: https://en.wikipedia.org/wiki/Erlang_(programming_language)
 ---

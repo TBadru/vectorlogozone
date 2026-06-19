@@ -15,11 +15,14 @@ images:
 - dartlang-ar21.svg
 - dartlang-official.svg
 logohandle: dartlang
+resource: https://www.vectorlogozone.com/logos/dartlang/dartlang-ar21.svg
 sort: dartlang
 tags:
 - programming_language
+timestamp: '2018-03-05T06:31:28Z'
 title: Dart
 twitter: https://x.com/dart_lang
+type: Logo
 website: https://www.dartlang.org/
 wikipedia: https://en.wikipedia.org/wiki/Dart_(programming_language)
 ---

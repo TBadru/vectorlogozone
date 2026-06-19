@@ -6,9 +6,12 @@ images:
 - gnome-ar21.svg
 - gnome-icon.svg
 logohandle: gnome
+resource: https://www.vectorlogozone.com/logos/gnome/gnome-ar21.svg
 sort: gnome
+timestamp: '2018-02-07T02:31:18Z'
 title: GNOME
 twitter: https://x.com/gnome
+type: Logo
 website: https://www.gnome.org/
 wikipedia: https://en.wikipedia.org/wiki/GNOME
 ---

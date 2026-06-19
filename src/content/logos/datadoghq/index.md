@@ -10,8 +10,11 @@ images:
 instagram: https://instagram.com/datadoghq
 linkedin: https://www.linkedin.com/company/datadog
 logohandle: datadoghq
+resource: https://www.vectorlogozone.com/logos/datadoghq/datadoghq-ar21.svg
 sort: datadog
+timestamp: '2018-08-12T00:10:41Z'
 title: DataDog
 twitter: https://x.com/datadoghq
+type: Logo
 website: https://www.datadoghq.com/
 ---

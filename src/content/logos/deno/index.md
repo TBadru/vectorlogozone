@@ -7,9 +7,12 @@ images:
 - deno-icon.svg
 - deno-icon~v1.svg
 logohandle: deno
+resource: https://www.vectorlogozone.com/logos/deno/deno-ar21.svg
 sort: deno
+timestamp: '2024-05-04T16:04:28Z'
 title: Deno
 twitter: https://x.com/deno_land
+type: Logo
 website: https://deno.com/
 youtube: https://youtube.com/@deno_land
 ---

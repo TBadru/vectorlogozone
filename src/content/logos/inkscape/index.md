@@ -9,12 +9,15 @@ images:
 - inkscape-ar21.svg
 - inkscape-icon.svg
 logohandle: inkscape
+resource: https://www.vectorlogozone.com/logos/inkscape/inkscape-ar21.svg
 sort: inkscape
 tags:
 - graphics
 - software
+timestamp: '2015-11-11T23:58:39Z'
 title: Inkscape
 twitter: https://x.com/inkscape
+type: Logo
 website: https://inkscape.org/
 wikipedia: https://en.wikipedia.org/wiki/Inkscape
 ---

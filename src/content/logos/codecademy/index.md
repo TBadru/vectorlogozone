@@ -12,9 +12,12 @@ images:
 - codecademy-ar21.svg
 instagram: https://www.instagram.com/codecademy/
 logohandle: codecademy
+resource: https://www.vectorlogozone.com/logos/codecademy/codecademy-ar21.svg
 sort: codecademy
+timestamp: '2018-04-17T23:37:18Z'
 title: Codecademy
 twitter: https://x.com/codecademy
+type: Logo
 website: https://www.codecademy.com/
 wikipedia: https://en.wikipedia.org/wiki/Codecademy
 ---

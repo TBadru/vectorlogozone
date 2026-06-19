@@ -12,11 +12,14 @@ images:
 - fileformatinfo-tile.svg
 - fileformatinfo-ar21.svg
 logohandle: fileformatinfo
+resource: https://www.vectorlogozone.com/logos/fileformatinfo/fileformatinfo-ar21.svg
 sort: fileformat.info
 tags:
 - andrew_marcuse
 - digital_preservation
 - reference
+timestamp: '2013-07-19T23:27:50Z'
 title: FileFormat.Info
+type: Logo
 website: https://www.fileformat.info/
 ---

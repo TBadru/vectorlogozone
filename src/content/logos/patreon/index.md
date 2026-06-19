@@ -10,11 +10,14 @@ images:
 instagram: https://www.instagram.com/patreon/
 linkedin: https://www.linkedin.com/company/patreon/
 logohandle: patreon
+resource: https://www.vectorlogozone.com/logos/patreon/patreon-ar21.svg
 sort: patreon
 tags:
 - monetization
+timestamp: '2017-08-13T19:04:57Z'
 title: Patreon
 twitter: https://x.com/patreon
+type: Logo
 website: https://www.patreon.com/
 wikipedia: https://en.wikipedia.org/wiki/Patreon
 ---

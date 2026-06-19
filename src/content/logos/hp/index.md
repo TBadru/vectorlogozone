@@ -10,9 +10,12 @@ images:
 - hp-ar21.svg
 - hp-icon.svg
 logohandle: hp
+resource: https://www.vectorlogozone.com/logos/hp/hp-ar21.svg
 sort: hp
+timestamp: '2018-03-22T22:32:03Z'
 title: Hewlett Packard
 twitter: https://x.com/HP
+type: Logo
 website: https://www.hp.com/
 wikipedia: https://en.wikipedia.org/wiki/Hewlett-Packard
 ---

@@ -9,11 +9,14 @@ images:
 - simplesharedev-tile.svg
 - simplesharedev-icon.svg
 logohandle: simplesharedev
+resource: https://www.vectorlogozone.com/logos/simplesharedev/simplesharedev-ar21.svg
 sort: simpleshare
 tags:
 - andrew_marcuse
 - saas
 - sharing
+timestamp: '2018-01-27T15:51:07Z'
 title: SimpleShare.dev
+type: Logo
 website: https://simpleshare.dev/
 ---

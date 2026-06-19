@@ -6,12 +6,15 @@ images:
 - php-ar21.svg
 - php-horizontal.svg
 logohandle: php
+resource: https://www.vectorlogozone.com/logos/php/php-ar21.svg
 sort: php
 tags:
 - php
 - programming_language
+timestamp: '2016-12-21T02:27:12Z'
 title: PHP
 twitter: https://x.com/official_php
+type: Logo
 website: http://www.php.net/
 wikipedia: https://en.wikipedia.org/wiki/PHP
 ---

@@ -14,12 +14,15 @@ images:
 - cloudflare-ar21.svg
 linkedin: https://www.linkedin.com/company/407222
 logohandle: cloudflare
+resource: https://www.vectorlogozone.com/logos/cloudflare/cloudflare-ar21.svg
 sort: cloudflare
 tags:
 - cdn
 - service
+timestamp: '2015-11-21T22:27:49Z'
 title: Cloudflare
 twitter: https://x.com/Cloudflare
+type: Logo
 website: https://www.cloudflare.com/
 wikipedia: https://en.wikipedia.org/wiki/Cloudflare
 ---

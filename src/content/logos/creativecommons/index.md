@@ -15,9 +15,12 @@ images:
 keywords:
 - cc
 logohandle: creativecommons
+resource: https://www.vectorlogozone.com/logos/creativecommons/creativecommons-ar21.svg
 sort: creativecommons
+timestamp: '2018-02-07T02:24:08Z'
 title: Creative Commons
 twitter: https://x.com/creativecommons
+type: Logo
 website: https://creativecommons.org/
 wikipedia: https://en.wikipedia.org/wiki/Creative_Commons
 ---

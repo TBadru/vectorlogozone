@@ -11,12 +11,15 @@ images:
 - authy-ar21.svg
 linkedin: https://linkedin.com/company/authy
 logohandle: authy
+resource: https://www.vectorlogozone.com/logos/authy/authy-ar21.svg
 sort: authy
 tags:
 - authentication
 - programming_library
 - saas
+timestamp: '2017-12-26T05:49:44Z'
 title: Authy
 twitter: https://x.com/Authy
+type: Logo
 website: https://authy.com/
 ---

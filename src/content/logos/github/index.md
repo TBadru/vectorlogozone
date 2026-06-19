@@ -12,11 +12,14 @@ images:
 - github-tile.svg
 - github-ar21.svg
 logohandle: github
+resource: https://www.vectorlogozone.com/logos/github/github-ar21.svg
 sort: github
 tags:
 - version_control
+timestamp: '2013-02-09T22:08:16Z'
 title: Github
 twitter: https://x.com/github
+type: Logo
 website: https://github.com/
 wikipedia: https://en.wikipedia.org/wiki/GitHub
 ---

@@ -11,13 +11,16 @@ images:
 - android-tile.svg
 - android-icon.svg
 logohandle: android
+resource: https://www.vectorlogozone.com/logos/android/android-ar21.svg
 sort: android
 tags:
 - operating_system
 - mobile
 - phone
+timestamp: '2017-09-27T03:50:40Z'
 title: android
 twitter: https://x.com/android
+type: Logo
 website: https://www.android.com/
 wikipedia: https://en.wikipedia.org/wiki/Android_(operating_system)
 ---

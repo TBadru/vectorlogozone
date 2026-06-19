@@ -8,9 +8,12 @@ images:
 instagram: https://www.instagram.com/xmind.app/
 linkedin: https://www.linkedin.com/company/xmind-ltd/
 logohandle: xmindapp
+resource: https://www.vectorlogozone.com/logos/xmindapp/xmindapp-ar21.svg
 sort: xmind
+timestamp: '2024-03-24T02:20:03Z'
 title: Xmind
 twitter: https://x.com/XmindHQ
+type: Logo
 website: https://xmind.app/
 youtube: https://www.youtube.com/@XmindHQ
 ---

@@ -7,8 +7,11 @@ images:
 - cumulusnetworks-icon.svg
 linkedin: http://linkedin.com/company/cumulus-networks
 logohandle: cumulusnetworks
+resource: https://www.vectorlogozone.com/logos/cumulusnetworks/cumulusnetworks-ar21.svg
 sort: cumulusnetworks
+timestamp: '2018-09-18T20:38:30Z'
 title: Cumulus Networks
 twitter: https://x.com/CumulusNetworks
+type: Logo
 website: https://cumulusnetworks.com/
 ---

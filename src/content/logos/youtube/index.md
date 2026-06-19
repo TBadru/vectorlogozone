@@ -17,12 +17,15 @@ images:
 - youtube-icon.svg
 linkedin: https://www.linkedin.com/company/16140/
 logohandle: youtube
+resource: https://www.vectorlogozone.com/logos/youtube/youtube-ar21.svg
 sort: youtube
 tags:
 - video
 - google
+timestamp: '2018-03-05T06:54:19Z'
 title: YouTube
 twitter: https://x.com/YouTube
+type: Logo
 website: https://www.youtube.com/
 wikipedia: https://en.wikipedia.org/wiki/YouTube
 ---

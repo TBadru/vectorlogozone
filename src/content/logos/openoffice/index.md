@@ -6,11 +6,14 @@ images:
 - openoffice-icon.svg
 - openoffice-ar21.svg
 logohandle: openoffice
+resource: https://www.vectorlogozone.com/logos/openoffice/openoffice-ar21.svg
 sort: openoffice
 tags:
 - software
+timestamp: '2015-12-09T03:07:16Z'
 title: Apache OpenOffice
 twitter: https://x.com/ApacheOO
+type: Logo
 website: http://www.openoffice.org/
 wikipedia: https://en.wikipedia.org/wiki/Apache_OpenOffice
 ---

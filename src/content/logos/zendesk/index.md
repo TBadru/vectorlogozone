@@ -11,9 +11,12 @@ instagram: http://instagram.com/zendesk
 linkedin: http://linkedin.com/company/zendesk
 logohandle: zendesk
 noindex: true
+resource: https://www.vectorlogozone.com/logos/zendesk/zendesk-ar21.svg
 sort: zendesk
+timestamp: '2018-11-17T03:48:18Z'
 title: Zendesk
 twitter: https://x.com/zendesk
+type: Logo
 website: https://www.zendesk.com/
 wikipedia: https://en.wikipedia.org/wiki/Zendesk
 youtube: https://youtube.com/watch?v=wPtnoRqQa5U

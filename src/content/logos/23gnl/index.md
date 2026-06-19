@@ -7,8 +7,11 @@ images:
 instagram: https://instagram.com/23g_nl
 linkedin: https://www.linkedin.com/company/23g/
 logohandle: 23gnl
+resource: https://www.vectorlogozone.com/logos/23gnl/23gnl-ar21.svg
 sort: 23g
+timestamp: '2019-11-14T22:05:05Z'
 title: 23G
 twitter: https://x.com/23g_nl
+type: Logo
 website: https://23g.nl/
 ---

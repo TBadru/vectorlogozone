@@ -10,8 +10,11 @@ images:
 - waspsh-ar21.svg
 - waspsh-icon.svg
 logohandle: waspsh
+resource: https://www.vectorlogozone.com/logos/waspsh/waspsh-ar21.svg
 sort: waspsh
+timestamp: '2025-04-02T17:04:18Z'
 title: Wasp
 twitter: https://x.com/WaspLang
+type: Logo
 website: https://wasp.sh/
 ---

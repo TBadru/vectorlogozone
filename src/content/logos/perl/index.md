@@ -12,10 +12,13 @@ images:
 - perl-ar21.svg
 - perl-icon.svg
 logohandle: perl
+resource: https://www.vectorlogozone.com/logos/perl/perl-ar21.svg
 sort: perl
 tags:
 - programming_language
+timestamp: '2013-07-19T23:24:37Z'
 title: Perl
+type: Logo
 website: https://www.perl.org/
 wikipedia: https://en.wikipedia.org/wiki/Perl
 ---

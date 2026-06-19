@@ -24,7 +24,7 @@
     },
     "colors": {
       "type": "array",
-      "items": 
+      "items":
         {
           "type": "string"
         }
@@ -53,15 +53,21 @@
     "pinterest": {
       "type": "string"
     },
+    "resource": {
+      "type": "string"
+    },
     "sort": {
       "type": "string"
     },
     "tags": {
       "type": "array",
-      "items": 
+      "items":
         {
           "type": "string"
         }
+    },
+    "timestamp": {
+      "type": "string"
     },
     "title": {
       "type": "string"
@@ -70,6 +76,9 @@
       "type": "string"
     },
     "twitter": {
+      "type": "string"
+    },
+    "type": {
       "type": "string"
     },
     "website": {

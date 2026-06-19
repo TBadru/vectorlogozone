@@ -14,9 +14,12 @@ images:
 instagram: https://instagram.com/workday
 linkedin: https://linkedin.com/company/workday
 logohandle: workday
+resource: https://www.vectorlogozone.com/logos/workday/workday-ar21.svg
 sort: workday
+timestamp: '2024-03-05T04:35:56Z'
 title: Workday
 twitter: https://x.com/Workday
+type: Logo
 website: https://www.workday.com/
 youtube: https://youtube.com/user/workdayvideo
 ---

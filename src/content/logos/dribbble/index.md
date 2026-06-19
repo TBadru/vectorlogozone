@@ -13,9 +13,12 @@ instagram: https://www.instagram.com/dribbble/
 linkedin: https://www.linkedin.com/company/dribbble/
 logohandle: dribbble
 pinterest: http://www.pinterest.com/dribbble/
+resource: https://www.vectorlogozone.com/logos/dribbble/dribbble-ar21.svg
 sort: dribbble
+timestamp: '2018-03-25T17:22:32Z'
 title: Dribbble
 twitter: https://x.com/dribbble
+type: Logo
 website: https://dribbble.com/
 wikipedia: https://en.wikipedia.org/wiki/Dribbble
 ---

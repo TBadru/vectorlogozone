@@ -8,12 +8,15 @@ images:
 - debian-ar21.svg
 - debian-icon.svg
 logohandle: debian
+resource: https://www.vectorlogozone.com/logos/debian/debian-ar21.svg
 sort: debian
 tags:
 - operating_system
 - linux
+timestamp: '2017-08-13T18:51:22Z'
 title: Debian
 twitter: https://x.com/debian
+type: Logo
 website: https://www.debian.org/
 wikipedia: https://en.wikipedia.org/wiki/Debian
 ---

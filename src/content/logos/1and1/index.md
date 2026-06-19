@@ -8,12 +8,15 @@ images:
 - 1and1-ar21.svg
 - 1and1-icon.svg
 logohandle: 1and1
+resource: https://www.vectorlogozone.com/logos/1and1/1and1-ar21.svg
 sort: 1and1
 tags:
 - hosting
 - domains
+timestamp: '2017-05-08T02:54:59Z'
 title: 1and1
 twitter: https://x.com/1and1
+type: Logo
 website: https://www.1and1.com/
 wikipedia: https://en.wikipedia.org/wiki/1%261_Internet
 ---

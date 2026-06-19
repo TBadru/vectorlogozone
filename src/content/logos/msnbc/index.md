@@ -6,10 +6,13 @@ images:
 instagram: http://instagram.com/msnbc
 linkedin: https://linkedin.com/company/msnbc
 logohandle: msnbc
+resource: https://www.vectorlogozone.com/logos/msnbc/msnbc-ar21.svg
 sort: msnbc
+timestamp: '2018-07-04T00:14:53Z'
 title: MSNBC
 tumblr: https://msnbc.tumblr.com/
 twitter: https://x.com/msnbc
+type: Logo
 website: http://www.msnbc.com/
 wikipedia: https://en.wikipedia.org/wiki/MSNBC
 youtube: https://youtube.com/user/msnbcleanforward

@@ -6,9 +6,12 @@ images:
 - sas-icon.svg
 linkedin: http://www.linkedin.com/company/sas
 logohandle: sas
+resource: https://www.vectorlogozone.com/logos/sas/sas-ar21.svg
 sort: sas
+timestamp: '2018-06-05T19:07:36Z'
 title: SAS
 twitter: https://x.com/SASsoftware
+type: Logo
 website: https://www.sas.com/
 wikipedia: https://en.wikipedia.org/wiki/SAS_(software)
 youtube: http://www.youtube.com/SASsoftware

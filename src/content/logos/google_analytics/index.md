@@ -17,12 +17,15 @@ images:
 - google_analytics-icon~old.svg
 - google_analytics-official.svg
 logohandle: google_analytics
+resource: https://www.vectorlogozone.com/logos/google_analytics/google_analytics-ar21.svg
 sort: google analytics
 tags:
 - analytics
 - google
+timestamp: '2015-11-15T14:59:24Z'
 title: Google Analytics
 twitter: https://x.com/googleanalytics
+type: Logo
 website: https://www.google.com/analytics/
 ---
 

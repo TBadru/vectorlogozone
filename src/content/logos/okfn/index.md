@@ -7,9 +7,12 @@ images:
 - okfn-ar21.svg
 - okfn-icon.svg
 logohandle: okfn
+resource: https://www.vectorlogozone.com/logos/okfn/okfn-ar21.svg
 sort: openknowledge
+timestamp: '2018-04-17T23:42:32Z'
 title: OpenKnowledge
 twitter: https://x.com/okfn
+type: Logo
 website: https://okfn.org/
 wikipedia: https://en.wikipedia.org/wiki/Open_Knowledge_International
 ---

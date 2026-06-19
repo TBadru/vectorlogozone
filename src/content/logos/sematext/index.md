@@ -7,8 +7,11 @@ images:
 - sematext-icon.svg
 linkedin: https://linkedin.com/company/294493
 logohandle: sematext
+resource: https://www.vectorlogozone.com/logos/sematext/sematext-ar21.svg
 sort: sematext
+timestamp: '2019-01-12T01:38:01Z'
 title: Sematext
 twitter: https://x.com/sematext
+type: Logo
 website: https://sematext.com/
 ---

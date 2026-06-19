@@ -6,11 +6,14 @@ images:
 - paxos-icon.svg
 linkedin: https://www.linkedin.com/company/paxos/
 logohandle: paxos
+resource: https://www.vectorlogozone.com/logos/paxos/paxos-ar21.svg
 sort: paxos
 tags:
 - crypto-currency
 - digital_assets
+timestamp: '2021-05-24T22:01:05Z'
 title: Paxos
 twitter: https://x.com/paxosglobal
+type: Logo
 website: https://www.paxos.com
 ---

@@ -14,9 +14,12 @@ images:
 - suse-ar21.svg
 linkedin: https://www.linkedin.com/company/suse
 logohandle: suse
+resource: https://www.vectorlogozone.com/logos/suse/suse-ar21.svg
 sort: suse
+timestamp: '2018-04-08T17:06:58Z'
 title: SUSE
 twitter: https://x.com/SUSE
+type: Logo
 website: https://www.suse.com/
 wikipedia: https://en.wikipedia.org/wiki/SUSE
 ---

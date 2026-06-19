@@ -13,10 +13,13 @@ images:
 - yahoo-icon.svg
 linkedin: https://www.linkedin.com/company/1288/
 logohandle: yahoo
+resource: https://www.vectorlogozone.com/logos/yahoo/yahoo-ar21.svg
 sort: yahoo
+timestamp: '2018-03-05T06:51:02Z'
 title: Yahoo!
 tumblr: https://yahoo.tumblr.com/
 twitter: https://x.com/Yahoo
+type: Logo
 website: https://www.yahoo.com/
 wikipedia: https://en.wikipedia.org/wiki/Yahoo!
 ---

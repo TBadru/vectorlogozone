@@ -9,12 +9,15 @@ images:
 - godaddy-icon.svg
 - godaddy-ar21.svg
 logohandle: godaddy
+resource: https://www.vectorlogozone.com/logos/godaddy/godaddy-ar21.svg
 sort: godaddy
 tags:
 - hosting
 - domains
+timestamp: '2017-05-08T02:54:59Z'
 title: GoDaddy
 twitter: https://x.com/godaddy
+type: Logo
 website: https://www.godaddy.com/
 ---
 

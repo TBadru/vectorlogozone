@@ -10,11 +10,14 @@ images:
 - medium-icon.svg
 - medium-ar21.svg
 logohandle: medium
+resource: https://www.vectorlogozone.com/logos/medium/medium-ar21.svg
 sort: medium
 tags:
 - blogging
+timestamp: '2018-03-22T22:34:57Z'
 title: medium
 twitter: https://x.com/medium
+type: Logo
 website: https://medium.com/
 wikipedia: https://en.wikipedia.org/wiki/Medium_(website)
 ---

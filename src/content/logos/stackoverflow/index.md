@@ -12,11 +12,14 @@ images:
 - stackoverflow-ar21.svg
 - stackoverflow-official.svg
 logohandle: stackoverflow
+resource: https://www.vectorlogozone.com/logos/stackoverflow/stackoverflow-ar21.svg
 sort: stackoverflow
 tags:
 - answers
+timestamp: '2017-09-19T22:17:49Z'
 title: Stack Overflow
 twitter: https://x.com/stackoverflow
+type: Logo
 website: https://stackoverflow.com/
 wikipedia: https://en.wikipedia.org/wiki/Stack_Overflow
 ---

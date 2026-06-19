@@ -8,7 +8,10 @@ images:
 keywords:
 - Robot Operating System
 logohandle: ros
+resource: https://www.vectorlogozone.com/logos/ros/ros-ar21.svg
 sort: ros
+timestamp: '2022-02-15T02:08:41Z'
 title: ROS
+type: Logo
 website: https://www.ros.org/
 ---

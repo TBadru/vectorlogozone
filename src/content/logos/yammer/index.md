@@ -10,9 +10,12 @@ images:
 - yammer-tile.svg
 linkedin: https://www.linkedin.com/company/260901/
 logohandle: yammer
+resource: https://www.vectorlogozone.com/logos/yammer/yammer-ar21.svg
 sort: yammer
+timestamp: '2018-03-05T06:52:22Z'
 title: Yammer
 twitter: https://x.com/Yammer
+type: Logo
 website: https://www.yammer.com/
 wikipedia: https://en.wikipedia.org/wiki/Yammer
 ---

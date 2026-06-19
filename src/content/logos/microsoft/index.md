@@ -12,11 +12,14 @@ images:
 - microsoft-ar21.svg
 - microsoft-icon.svg
 logohandle: microsoft
+resource: https://www.vectorlogozone.com/logos/microsoft/microsoft-ar21.svg
 sort: microsoft
 tags:
 - microsoft
+timestamp: '2017-09-27T03:56:43Z'
 title: Microsoft
 twitter: https://x.com/microsoft
+type: Logo
 website: https://www.microsoft.com/
 wikipedia: https://en.wikipedia.org/wiki/Microsoft
 ---

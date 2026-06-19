@@ -12,13 +12,16 @@ images:
 - facebook-official.svg
 - facebook-ar21.svg
 logohandle: facebook
+resource: https://www.vectorlogozone.com/logos/facebook/facebook-ar21.svg
 sort: facebook
 tags:
 - facebook
 - simpleshare
 - social_network
+timestamp: '2017-09-21T04:49:18Z'
 title: Facebook
 twitter: https://x.com/facebook
+type: Logo
 website: https://www.facebook.com/
 wikipedia: https://en.wikipedia.org/wiki/Facebook
 ---

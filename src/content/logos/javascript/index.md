@@ -13,10 +13,13 @@ images:
 - javascript-vertical.svg
 - javascript-ar21~alt.svg
 logohandle: javascript
+resource: https://www.vectorlogozone.com/logos/javascript/javascript-ar21.svg
 sort: javascript
 tags:
 - programming_language
+timestamp: '2015-11-22T03:51:05Z'
 title: JavaScript
+type: Logo
 website: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 wikipedia: https://en.wikipedia.org/wiki/JavaScript
 ---

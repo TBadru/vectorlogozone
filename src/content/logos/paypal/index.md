@@ -15,11 +15,14 @@ images:
 instagram: https://www.instagram.com/paypalde/
 linkedin: https://www.linkedin.com/company/paypal
 logohandle: paypal
+resource: https://www.vectorlogozone.com/logos/paypal/paypal-ar21.svg
 sort: paypal
 tags:
 - payments
+timestamp: '2018-04-17T23:44:55Z'
 title: PayPal
 twitter: https://x.com/paypal
+type: Logo
 website: https://www.paypal.com/
 wikipedia: https://en.wikipedia.org/wiki/PayPal
 youtube: http://www.youtube.com/user/PayPal

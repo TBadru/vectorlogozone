@@ -12,11 +12,14 @@ images:
 - postgresql-wordmark.svg
 - postgresql-vertical.svg
 logohandle: postgresql
+resource: https://www.vectorlogozone.com/logos/postgresql/postgresql-ar21.svg
 sort: postgresql
 tags:
 - database
+timestamp: '2015-11-26T01:48:58Z'
 title: PostgreSQL
 twitter: https://x.com/postgresql
+type: Logo
 website: http://www.postgresql.org/
 wikipedia: https://en.wikipedia.org/wiki/PostgreSQL
 ---

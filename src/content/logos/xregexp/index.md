@@ -10,12 +10,15 @@ images:
 - xregexp-icon.svg
 - xregexp-ar21.svg
 logohandle: xregexp
+resource: https://www.vectorlogozone.com/logos/xregexp/xregexp-ar21.svg
 sort: xregexp
 tags:
 - javascript
 - programming_library
 - regex
+timestamp: '2013-02-08T03:24:05Z'
 title: XRegexp
+type: Logo
 website: http://xregexp.com/
 ---
 
